@@ -27,4 +27,6 @@ int main()
     }
 
     cout << *max_element(d + 1, d + n + 1) << '\n';
+
+    return 0;
 }
