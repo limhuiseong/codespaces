@@ -63,4 +63,6 @@ int main()
         cout << 1 << '\n';
     else
         cout << mx_element << '\n';
+
+    return 0;
 }
